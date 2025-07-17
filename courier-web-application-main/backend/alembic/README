@@ -1,0 +1,4 @@
+Generic single-database configuration.
+
+# Security Note
+Never store secrets or sensitive credentials in migration scripts or Alembic configuration files.
